@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B03BCC4-E896-4088-84D6-D11E533F88BB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CreationalPatternsLab</RootNamespace>
+    <AssemblyName>CreationalPatternsLab</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractFactory\Devices\BalaxyEBook.cs" />
+    <Compile Include="AbstractFactory\Devices\BalaxyLaptop.cs" />
+    <Compile Include="AbstractFactory\Devices\BalaxyNetbook.cs" />
+    <Compile Include="AbstractFactory\Devices\BalaxySmartphone.cs" />
+    <Compile Include="AbstractFactory\Devices\IProneEBook.cs" />
+    <Compile Include="AbstractFactory\Devices\IProneLaptop.cs" />
+    <Compile Include="AbstractFactory\Devices\IProneNetbook.cs" />
+    <Compile Include="AbstractFactory\Devices\IProneSmartphone.cs" />
+    <Compile Include="AbstractFactory\Devices\KiaomiEBook.cs" />
+    <Compile Include="AbstractFactory\Devices\KiaomiLaptop.cs" />
+    <Compile Include="AbstractFactory\Devices\KiaomiNetbook.cs" />
+    <Compile Include="AbstractFactory\Devices\KiaomiSmartphone.cs" />
+    <Compile Include="AbstractFactory\Factories\BalaxyFactory.cs" />
+    <Compile Include="AbstractFactory\Interfaces\IDeviceFactory.cs" />
+    <Compile Include="AbstractFactory\Interfaces\IEBook.cs" />
+    <Compile Include="AbstractFactory\Factories\IProneFactory.cs" />
+    <Compile Include="AbstractFactory\Factories\KiaomiFactory.cs" />
+    <Compile Include="AbstractFactory\Interfaces\ILaptop.cs" />
+    <Compile Include="AbstractFactory\Interfaces\INetbook.cs" />
+    <Compile Include="AbstractFactory\Interfaces\ISmartphone.cs" />
+    <Compile Include="Builder\Character.cs" />
+    <Compile Include="Builder\CharacterDirector.cs" />
+    <Compile Include="Builder\EnemyBuilder.cs" />
+    <Compile Include="Builder\HeroBuilder.cs" />
+    <Compile Include="Builder\ICharacterBuilder.cs" />
+    <Compile Include="FactoryMethod\DomesticSubscription.cs" />
+    <Compile Include="FactoryMethod\EducationalSubscription.cs" />
+    <Compile Include="FactoryMethod\ManagerCall.cs" />
+    <Compile Include="FactoryMethod\MobileApp.cs" />
+    <Compile Include="FactoryMethod\PremiumSubscription.cs" />
+    <Compile Include="FactoryMethod\Subscription.cs" />
+    <Compile Include="FactoryMethod\SubscriptionCreator.cs" />
+    <Compile Include="FactoryMethod\WebSite.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Prototype\Virus.cs" />
+    <Compile Include="Singleton\Authenticator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagramTask1.cd" />
+    <None Include="ClassDiagramTask2.cd" />
+    <None Include="ClassDiagramTask5.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

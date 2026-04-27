@@ -1,0 +1,657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\subscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\subscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|c:\\anna\\uni\\2.2\\\u043A\u043F\u0437\\lab02\\creationalpatternslab\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\singleton\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:singleton\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\ipronesmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\ipronesmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\kiaomismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\kiaomismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\kiaominetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\kiaominetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\kiaomilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\kiaomilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\kiaomiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\kiaomiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\ipronenetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\ipronenetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\ipronelaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\ipronelaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\iproneebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\iproneebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\balaxysmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\balaxysmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\balaxynetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\balaxynetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\balaxyebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\balaxyebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\devices\\balaxylaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\devices\\balaxylaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\interfaces\\inetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\interfaces\\inetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\interfaces\\ilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\interfaces\\ilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\factories\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\factories\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\factories\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\factories\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\interfaces\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\interfaces\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\interfaces\\ismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\interfaces\\ismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\factories\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\factories\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\factorymethod\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:factorymethod\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\abstractfactory\\interfaces\\iebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:abstractfactory\\interfaces\\iebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\classdiagramtask1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:classdiagramtask1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\classdiagramtask2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:classdiagramtask2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\classdiagramtask5.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{5B03BCC4-E896-4088-84D6-D11E533F88BB}|CreationalPatternsLab.csproj|solutionrelative:classdiagramtask5.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KiaomiLaptop.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:41:41.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KiaomiNetbook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:46:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KiaomiSmartphone.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:49:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Singleton\\Authenticator.cs",
+              "RelativeDocumentMoniker": "Singleton\\Authenticator.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Singleton\\Authenticator.cs",
+              "RelativeToolTip": "Singleton\\Authenticator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:27:10.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Virus.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Prototype\\Virus.cs",
+              "RelativeDocumentMoniker": "Prototype\\Virus.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Prototype\\Virus.cs",
+              "RelativeToolTip": "Prototype\\Virus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:38:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\Subscription.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Subscription.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\Subscription.cs",
+              "RelativeToolTip": "FactoryMethod\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:18:50.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ManagerCall.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\ManagerCall.cs",
+              "RelativeToolTip": "FactoryMethod\\ManagerCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:27:29.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionCreator.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\SubscriptionCreator.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\SubscriptionCreator.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\SubscriptionCreator.cs",
+              "RelativeToolTip": "FactoryMethod\\SubscriptionCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:25:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KiaomiEBook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:47:31.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProneSmartphone.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneSmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProneSmartphone.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneSmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProneSmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:48:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProneNetbook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProneNetbook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProneNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:46:00.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProneLaptop.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProneLaptop.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProneLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:38:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProneEBook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\IProneEBook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\IProneEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\IProneEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:47:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BalaxySmartphone.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:49:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BalaxyNetbook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:46:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BalaxyEBook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:47:56.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BalaxyLaptop.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:42:56.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "INetbook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\INetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\INetbook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\INetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\INetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:34:15.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILaptop.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\ILaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\ILaptop.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\ILaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\ILaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:33:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KiaomiFactory.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\KiaomiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:35:28.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Factories\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\IProneFactory.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Factories\\IProneFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\IProneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:35:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\IDeviceFactory.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\IDeviceFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\IDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:33:23.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISmartphone.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\ISmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\ISmartphone.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\ISmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\ISmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:34:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BalaxyFactory.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\BalaxyFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:35:46.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\PremiumSubscription.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\PremiumSubscription.cs",
+              "RelativeToolTip": "FactoryMethod\\PremiumSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:24:19.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\EducationalSubscription.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\EducationalSubscription.cs",
+              "RelativeToolTip": "FactoryMethod\\EducationalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:23:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebSite.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\WebSite.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\WebSite.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\WebSite.cs",
+              "RelativeToolTip": "FactoryMethod\\WebSite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:26:06.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\ICharacterBuilder.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\ICharacterBuilder.cs",
+              "RelativeToolTip": "Builder\\ICharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:58:04.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\DomesticSubscription.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\DomesticSubscription.cs",
+              "RelativeToolTip": "FactoryMethod\\DomesticSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:21:41.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MobileApp.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\MobileApp.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\MobileApp.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\FactoryMethod\\MobileApp.cs",
+              "RelativeToolTip": "FactoryMethod\\MobileApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:26:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\CharacterDirector.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\CharacterDirector.cs",
+              "RelativeToolTip": "Builder\\CharacterDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:53:36.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\HeroBuilder.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\HeroBuilder.cs",
+              "RelativeToolTip": "Builder\\HeroBuilder.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:44:07.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\Character.cs",
+              "RelativeDocumentMoniker": "Builder\\Character.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\Character.cs",
+              "RelativeToolTip": "Builder\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:42:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\EnemyBuilder.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Builder\\EnemyBuilder.cs",
+              "RelativeToolTip": "Builder\\EnemyBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:46:21.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:35:49.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IEBook.cs",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\IEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\IEBook.cs",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\AbstractFactory\\Interfaces\\IEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\IEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:34:26.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClassDiagramTask1.cd",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\ClassDiagramTask1.cd",
+              "RelativeDocumentMoniker": "ClassDiagramTask1.cd",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\ClassDiagramTask1.cd",
+              "RelativeToolTip": "ClassDiagramTask1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-03-15T17:56:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClassDiagramTask2.cd",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\ClassDiagramTask2.cd",
+              "RelativeDocumentMoniker": "ClassDiagramTask2.cd",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\ClassDiagramTask2.cd",
+              "RelativeToolTip": "ClassDiagramTask2.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-03-15T21:05:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClassDiagramTask5.cd",
+              "DocumentMoniker": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\ClassDiagramTask5.cd",
+              "RelativeDocumentMoniker": "ClassDiagramTask5.cd",
+              "ToolTip": "C:\\Anna\\UNI\\2.2\\\u041A\u041F\u0417\\Lab02\\CreationalPatternsLab\\ClassDiagramTask5.cd",
+              "RelativeToolTip": "ClassDiagramTask5.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-03-16T10:57:54.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

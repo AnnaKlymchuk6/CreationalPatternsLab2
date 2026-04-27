@@ -1,0 +1,8 @@
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\obj\Debug\CreationalPatternsLab.csproj.AssemblyReference.cache
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\obj\Debug\CreationalPatternsLab.csproj.CoreCompileInputs.cache
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\bin\Debug\CreationalPatternsLab.exe.config
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\bin\Debug\CreationalPatternsLab.exe
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\bin\Debug\CreationalPatternsLab.pdb
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\obj\Debug\CreationalPatternsLab.exe
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\obj\Debug\CreationalPatternsLab.pdb
+C:\Anna\UNI\2.2\КПЗ\Lab02\CreationalPatternsLab\obj\Debug\CreationalPatternsLab.exe.config
